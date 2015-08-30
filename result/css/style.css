@@ -1,0 +1,101 @@
+body
+{
+	margin:0; background:#EEEEEE;
+}
+#manu
+{
+	width:820px; height:1130px; background:white; margin:0 auto; position:relative; top:10px; margin-bottom:50px; border-radius:15px;
+}
+#logo
+{
+	position:relative; top:10px; border-radius:10px; left:3px;
+}
+#pre
+{
+	background-image:url(../images/bd_logo.png); background-repeat:no-repeat; background-position:50%; 50%; 
+}
+
+#main
+{
+	 width:670px; height:45px;  border-bottom:1px #479E55 solid;  background:#007814; border-left:2px solid white;
+}
+#main0
+{
+	float:left; width:450px; height:35px;
+}
+#main0 h2 
+{
+	margin-left:10px; position:relative; bottom:10px; color:#95E17D;
+}
+#main2 h2
+{
+	margin-left:10px; position:relative; bottom:15px; color:white;
+}
+#main1
+{
+	float:left; width:220px; height:40px; background-image:url(../images/banner_flag.jpg);  background-repeat:no-repeat;
+}
+#main2
+{
+	width:670px; height:65px;  float:left; background:#007814; border-left:2px solid white; border-bottom:2px solid white;
+
+}
+#main3
+{
+	width:670px; height:35px;  float:left; background:#66B061; border-left:2px solid white;
+}	
+#main3 p
+{
+	text-align:right;  position:relative; bottom:10px; color:white; margin-right:15px;
+}
+#border
+{
+	position:relative; top:20px; width:800px;
+}
+#border2
+{
+	position:relative; top:50px; width:800px;
+}
+#logo2
+{
+	position:relative; top:50px; width:800px; height:auto px; margin:0 auto; background:#EEEEEE; font-size:18px;
+	
+}
+#log3
+{
+	position:relative; top:50px; width:800px; height:auto px; margin:0 auto; background:#EEEEEE; font-size:18px;
+	
+}
+#log3 td input
+{
+	text-align:center;
+}
+#side
+{
+	border-bottom:3px solid white; 
+}
+#side2
+{
+	border-bottom:3px solid white; border-left:3px solid white;
+}
+#side3
+{
+	border-bottom:3px solid white; border-left:1px solid white;
+}
+#logo3
+{
+	position:relative; top:80px; width:800px; height:auto px; margin:0 auto; background:#EEEEEE;  border-top:5px #86C775 solid;
+}
+#logo4
+{
+	position:relative; top:70px; width:800px; height:auto px; margin:0 auto; 
+}
+#logo4 a
+{
+	text-decoration:none; font-sixe:24px;
+}
+#logo4 a:hover
+{
+	color:red;
+}
+
